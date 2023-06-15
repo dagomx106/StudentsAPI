@@ -12,7 +12,7 @@ public class DDTests {
 	Student userPayload;
 	
 	@Test(priority=2, dataProvider="Data", dataProviderClass=api.utilities.Dataproviders.class)
-	public void testUpdateStudents(String id, String name, String location, String phone) {
+	public void testUpdateStudents(String id, String name, String location, String phone, String courses) {
 		
 		userPayload = new Student();
 		Integer num = Integer.parseInt(id);
@@ -20,6 +20,9 @@ public class DDTests {
 		userPayload.setName(name);
 		userPayload.setLocation(location);
 		userPayload.setPhone(phone);
+		
+		String[]arrcourses = courses.split(",");
+		userPayload.setCourses(arrcourses);
 		
 		Response res = StudentEndPoints.updateStudent(this.userPayload,this.userPayload.getId());
 		System.out.println(id);
