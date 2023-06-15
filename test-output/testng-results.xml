@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-14T19:09:50 CDT" name="Students" finished-at="2023-06-14T19:10:01 CDT" duration-ms="10643">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T19:09:50 CDT" name="APITest" finished-at="2023-06-14T19:10:01 CDT" duration-ms="10643">
+      <class name="api.test.testsStudents">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.testsStudents@72cc7e6f]" started-at="2023-06-14T19:09:51 CDT" name="setup" finished-at="2023-06-14T19:09:52 CDT" duration-ms="1525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPostStudent(org.testng.ITestContext)[pri:1, instance:api.test.testsStudents@72cc7e6f]" started-at="2023-06-14T19:09:52 CDT" name="testPostStudent" finished-at="2023-06-14T19:09:57 CDT" duration-ms="4913" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c9beb51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostStudent -->
+        <test-method signature="testGetStudent(org.testng.ITestContext)[pri:2, instance:api.test.testsStudents@72cc7e6f]" started-at="2023-06-14T19:09:57 CDT" name="testGetStudent" finished-at="2023-06-14T19:09:57 CDT" depends-on-methods="api.test.testsStudents.testPostStudent" duration-ms="133" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c9beb51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetStudent -->
+        <test-method signature="testPutStudent(org.testng.ITestContext)[pri:3, instance:api.test.testsStudents@72cc7e6f]" started-at="2023-06-14T19:09:57 CDT" name="testPutStudent" finished-at="2023-06-14T19:09:57 CDT" depends-on-methods="api.test.testsStudents.testPostStudent" duration-ms="100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c9beb51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPutStudent -->
+        <test-method signature="testDeleteStudent(org.testng.ITestContext)[pri:4, instance:api.test.testsStudents@72cc7e6f]" started-at="2023-06-14T19:09:57 CDT" name="testDeleteStudent" finished-at="2023-06-14T19:09:57 CDT" depends-on-methods="api.test.testsStudents.testPostStudent" duration-ms="79" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c9beb51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteStudent -->
+      </class> <!-- api.test.testsStudents -->
+      <class name="api.test.testsStudents2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.testsStudents2@5e2c3d18]" started-at="2023-06-14T19:09:57 CDT" name="setup" finished-at="2023-06-14T19:09:58 CDT" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPostStudent(org.testng.ITestContext)[pri:1, instance:api.test.testsStudents2@5e2c3d18]" started-at="2023-06-14T19:09:58 CDT" name="testPostStudent" finished-at="2023-06-14T19:09:58 CDT" duration-ms="127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c9beb51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostStudent -->
+        <test-method signature="testGetStudent(org.testng.ITestContext)[pri:2, instance:api.test.testsStudents2@5e2c3d18]" started-at="2023-06-14T19:09:58 CDT" name="testGetStudent" finished-at="2023-06-14T19:09:58 CDT" depends-on-methods="api.test.testsStudents2.testPostStudent" duration-ms="77" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c9beb51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetStudent -->
+        <test-method signature="testPutStudent(org.testng.ITestContext)[pri:3, instance:api.test.testsStudents2@5e2c3d18]" started-at="2023-06-14T19:09:58 CDT" name="testPutStudent" finished-at="2023-06-14T19:09:58 CDT" depends-on-methods="api.test.testsStudents2.testPostStudent" duration-ms="86" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c9beb51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPutStudent -->
+        <test-method signature="testDeleteStudent(org.testng.ITestContext)[pri:4, instance:api.test.testsStudents2@5e2c3d18]" started-at="2023-06-14T19:09:58 CDT" name="testDeleteStudent" finished-at="2023-06-14T19:09:58 CDT" depends-on-methods="api.test.testsStudents2.testPostStudent" duration-ms="79" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c9beb51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteStudent -->
+      </class> <!-- api.test.testsStudents2 -->
+      <class name="api.test.DDTests">
+        <test-method signature="testGetUser(int)[pri:1, instance:api.test.DDTests@2cb4893b]" started-at="2023-06-14T19:10:00 CDT" name="testGetUser" data-provider="StudentId" finished-at="2023-06-14T19:10:00 CDT" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testGetUser(int)[pri:1, instance:api.test.DDTests@2cb4893b]" started-at="2023-06-14T19:10:00 CDT" name="testGetUser" data-provider="StudentId" finished-at="2023-06-14T19:10:00 CDT" duration-ms="40" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testGetUser(int)[pri:1, instance:api.test.DDTests@2cb4893b]" started-at="2023-06-14T19:10:00 CDT" name="testGetUser" data-provider="StudentId" finished-at="2023-06-14T19:10:00 CDT" duration-ms="62" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testUpdateStudents(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:api.test.DDTests@2cb4893b]" started-at="2023-06-14T19:10:00 CDT" name="testUpdateStudents" data-provider="Data" finished-at="2023-06-14T19:10:00 CDT" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mex]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123132]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateStudents -->
+        <test-method signature="testUpdateStudents(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:api.test.DDTests@2cb4893b]" started-at="2023-06-14T19:10:00 CDT" name="testUpdateStudents" data-provider="Data" finished-at="2023-06-14T19:10:01 CDT" duration-ms="52" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[usa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[43546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateStudents -->
+        <test-method signature="testUpdateStudents(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:api.test.DDTests@2cb4893b]" started-at="2023-06-14T19:10:01 CDT" name="testUpdateStudents" data-provider="Data" finished-at="2023-06-14T19:10:01 CDT" duration-ms="60" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chin]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[78778]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateStudents -->
+      </class> <!-- api.test.DDTests -->
+    </test> <!-- APITest -->
+  </suite> <!-- Students -->
+</testng-results>

@@ -1,0 +1,67 @@
+2023-06-14 17:47:24,568 INFO a.t.testsStudents [main] -----Inicio----
+2023-06-14 17:47:28,332 INFO a.t.testsStudents [main] -----POST----
+2023-06-14 17:48:45,327 INFO a.t.testsStudents [main] -----Inicio----
+2023-06-14 17:48:50,071 INFO a.t.testsStudents [main] -----POST----
+2023-06-14 17:48:50,097 INFO a.t.testsStudents [main] -----GET----
+2023-06-14 17:48:50,227 INFO a.t.testsStudents [main] -----DATA UPDATE----
+2023-06-14 17:48:50,229 INFO a.t.testsStudents [main] -----UPDATE----
+2023-06-14 17:48:50,334 INFO a.t.testsStudents [main] -----DELETE----
+2023-06-14 17:48:50,390 INFO a.t.testsStudents [main] -----FIN----
+2023-06-14 19:04:45,741 INFO a.t.testsStudents [main] -----Inicio----
+2023-06-14 19:04:50,247 INFO a.t.testsStudents [main] -----POST----
+2023-06-14 19:04:50,286 INFO a.t.testsStudents [main] -----GET----
+2023-06-14 19:04:50,426 INFO a.t.testsStudents [main] -----DATA UPDATE----
+2023-06-14 19:04:50,427 INFO a.t.testsStudents [main] -----UPDATE----
+2023-06-14 19:04:50,530 INFO a.t.testsStudents [main] -----DELETE----
+2023-06-14 19:04:50,585 INFO a.t.testsStudents [main] -----FIN----
+2023-06-14 19:04:50,793 INFO a.t.testsStudents2 [main] -----Inicio----
+2023-06-14 19:07:50,526 INFO a.t.testsStudents2 [main] -----Inicio----
+2023-06-14 19:09:33,273 INFO a.t.testsStudents2 [main] -----Inicio----
+2023-06-14 19:09:37,801 INFO a.t.testsStudents2 [main] -----POST----
+2023-06-14 19:09:37,843 INFO a.t.testsStudents2 [main] -----GET----
+2023-06-14 19:09:38,032 INFO a.t.testsStudents2 [main] -----DATA UPDATE----
+2023-06-14 19:09:38,033 INFO a.t.testsStudents2 [main] -----UPDATE----
+2023-06-14 19:09:38,162 INFO a.t.testsStudents2 [main] -----DELETE----
+2023-06-14 19:09:38,230 INFO a.t.testsStudents2 [main] -----FIN----
+2023-06-14 19:09:52,574 INFO a.t.testsStudents [main] -----Inicio----
+2023-06-14 19:09:57,471 INFO a.t.testsStudents [main] -----POST----
+2023-06-14 19:09:57,534 INFO a.t.testsStudents [main] -----GET----
+2023-06-14 19:09:57,677 INFO a.t.testsStudents [main] -----DATA UPDATE----
+2023-06-14 19:09:57,679 INFO a.t.testsStudents [main] -----UPDATE----
+2023-06-14 19:09:57,784 INFO a.t.testsStudents [main] -----DELETE----
+2023-06-14 19:09:57,860 INFO a.t.testsStudents [main] -----FIN----
+2023-06-14 19:09:58,013 INFO a.t.testsStudents2 [main] -----Inicio----
+2023-06-14 19:09:58,133 INFO a.t.testsStudents2 [main] -----POST----
+2023-06-14 19:09:58,147 INFO a.t.testsStudents2 [main] -----GET----
+2023-06-14 19:09:58,235 INFO a.t.testsStudents2 [main] -----DATA UPDATE----
+2023-06-14 19:09:58,235 INFO a.t.testsStudents2 [main] -----UPDATE----
+2023-06-14 19:09:58,343 INFO a.t.testsStudents2 [main] -----DELETE----
+2023-06-14 19:09:58,405 INFO a.t.testsStudents2 [main] -----FIN----
+2023-06-14 19:13:30,193 INFO a.t.testsStudents [main] -----Inicio----
+2023-06-14 19:13:34,981 INFO a.t.testsStudents [main] -----POST----
+2023-06-14 19:13:35,022 INFO a.t.testsStudents [main] -----GET----
+2023-06-14 19:13:35,151 INFO a.t.testsStudents [main] -----DATA UPDATE----
+2023-06-14 19:13:35,152 INFO a.t.testsStudents [main] -----UPDATE----
+2023-06-14 19:13:35,252 INFO a.t.testsStudents [main] -----DELETE----
+2023-06-14 19:13:35,320 INFO a.t.testsStudents [main] -----FIN----
+2023-06-14 19:13:35,431 INFO a.t.testsStudents2 [main] -----Inicio----
+2023-06-14 19:13:35,594 INFO a.t.testsStudents2 [main] -----POST----
+2023-06-14 19:13:35,597 INFO a.t.testsStudents2 [main] -----GET----
+2023-06-14 19:13:35,669 INFO a.t.testsStudents2 [main] -----DATA UPDATE----
+2023-06-14 19:13:35,670 INFO a.t.testsStudents2 [main] -----UPDATE----
+2023-06-14 19:13:35,750 INFO a.t.testsStudents2 [main] -----DELETE----
+2023-06-14 19:13:35,798 INFO a.t.testsStudents2 [main] -----FIN----
+2023-06-14 19:14:59,996 INFO a.t.testsStudents [main] -----Inicio----
+2023-06-14 19:15:04,925 INFO a.t.testsStudents [main] -----POST----
+2023-06-14 19:15:04,964 INFO a.t.testsStudents [main] -----GET----
+2023-06-14 19:15:05,116 INFO a.t.testsStudents [main] -----DATA UPDATE----
+2023-06-14 19:15:05,118 INFO a.t.testsStudents [main] -----UPDATE----
+2023-06-14 19:15:05,207 INFO a.t.testsStudents [main] -----DELETE----
+2023-06-14 19:15:05,279 INFO a.t.testsStudents [main] -----FIN----
+2023-06-14 19:15:05,376 INFO a.t.testsStudents2 [main] -----Inicio----
+2023-06-14 19:15:05,485 INFO a.t.testsStudents2 [main] -----POST----
+2023-06-14 19:15:05,495 INFO a.t.testsStudents2 [main] -----GET----
+2023-06-14 19:15:05,568 INFO a.t.testsStudents2 [main] -----DATA UPDATE----
+2023-06-14 19:15:05,570 INFO a.t.testsStudents2 [main] -----UPDATE----
+2023-06-14 19:15:05,660 INFO a.t.testsStudents2 [main] -----DELETE----
+2023-06-14 19:15:05,716 INFO a.t.testsStudents2 [main] -----FIN----
